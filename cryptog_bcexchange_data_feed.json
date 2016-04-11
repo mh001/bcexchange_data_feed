@@ -12,54 +12,9 @@
     "reputations" : [
     ],
     "signerreward" : {
-        "count" : 4,
-        "amount" : 0.01
+        "count" : null,
+        "amount" : null
     },
     "assets" : [
-        {
-            "assetid" : "BKC",
-            "confirmations" : 15,
-            "reqsigners" : 4,
-            "totalsigners" : 6,
-            "maxtrade" : 5000.0,
-            "mintrade" : 0.1,
-            "unitexponent" : 4
-        },
-        {
-            "assetid" : "BKS",
-            "confirmations" : 15,
-            "reqsigners" : 4,
-            "totalsigners" : 6,
-            "maxtrade" : 1000.0,
-            "mintrade" : 1.0,
-            "unitexponent" : 4
-        },
-        {
-            "assetid" : "BTC",
-            "confirmations" : 2,
-            "reqsigners" : 4,
-            "totalsigners" : 6,
-            "maxtrade" : 10.0,
-            "mintrade" : 0.001,
-            "unitexponent" : 8
-        },
-        {
-            "assetid" : "NBT",
-            "confirmations" : 15,
-            "reqsigners" : 4,
-            "totalsigners" : 6,
-            "maxtrade" : 5000.0,
-            "mintrade" : 0.1,
-            "unitexponent" : 4
-        },
-        {
-            "assetid" : "NSR",
-            "confirmations" : 15,
-            "reqsigners" : 4,
-            "totalsigners" : 6,
-            "maxtrade" : 1000000.0,
-            "mintrade" : 30.0,
-            "unitexponent" : 8
-        }
     ]
 }
