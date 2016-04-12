@@ -12,6 +12,8 @@
     "reputations" : [
     ],
     "signerreward" : {
+        "count" : null,
+        "amount" : null
     },
     "assets" : [
     ]
