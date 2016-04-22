@@ -4,6 +4,7 @@
     "parkrates" : [
     ],
     "motions" : [
+        "10b8b8452f10c025318e5837586e93ddcb020fb4"
     ],
     "fees" : {
         "8" : 0.01,
@@ -12,7 +13,72 @@
     "reputations" : [
     ],
     "signerreward" : {
+        "count" : null,
+        "amount" : null
     },
     "assets" : [
+        {
+            "assetid" : "BKC",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 10.0,
+            "mintrade" : 0.1,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "BKS",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 1.0,
+            "mintrade" : 0.1,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "BTC",
+            "confirmations" : 1,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 0.01,
+            "mintrade" : 0.001,
+            "unitexponent" : 8
+        },
+        {
+            "assetid" : "NBT",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 10.0,
+            "mintrade" : 0.1,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "NSR",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 5000.0,
+            "mintrade" : 1.0,
+            "unitexponent" : 8
+        },
+        {
+            "assetid" : "PPC",
+            "confirmations" : 1,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 20.0,
+            "mintrade" : 0.1,
+            "unitexponent" : 6
+        },
+        {
+            "assetid" : "XPM",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 20.0,
+            "mintrade" : 0.1,
+            "unitexponent" : 6
+        }
     ]
 }
