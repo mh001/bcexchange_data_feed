@@ -4,7 +4,8 @@
     "parkrates" : [
     ],
     "motions" : [
-        "10b8b8452f10c025318e5837586e93ddcb020fb4"
+        "10b8b8452f10c025318e5837586e93ddcb020fb4",
+        "c1e9a92ca18591e78c7489b658bf414da7bd1a2e"
     ],
     "fees" : {
         "8" : 0.01,
