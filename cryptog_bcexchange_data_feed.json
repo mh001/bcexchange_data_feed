@@ -43,11 +43,15 @@
         {
             "address" : "8VTtwxu2T1yYUiXoq8BtGAjXxwPySRfFaX",
             "weight" : 20
+        },
+        {
+            "address" : "8Z3cSbWKeCiE5A15dJpsHmou34w5BYVHqM",
+            "weight" : -127
         }
     ],
     "signerreward" : {
-        "count" : 7,
-        "amount" : 0.001
+        "count" : 10,
+        "amount" : 0.01
     },
     "assets" : [
         {
