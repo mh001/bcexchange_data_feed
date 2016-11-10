@@ -6,10 +6,11 @@
     ],
     "motions" : [
         "10b8b8452f10c025318e5837586e93ddcb020fb4",
-        "1b2364f0a9ac919a2372feb84c9ad616400b42e0",
+        "cd63006bb3e159b6224ad2e619b72336f4c9ddc9",
         "f73d264a2053b6eb3bcd2166a2052083f4083972",
         "58ca74b14b6ea4fc73aa943688d52c590f60b1e5",
-        "1f8d60f8c1ab0016aa2653fd9c7ef6de89d7b8bb"
+        "1f8d60f8c1ab0016aa2653fd9c7ef6de89d7b8bb",
+        "a2a32c8ef97f7145f05e97e0e7d69ead6a61dc47"
     ],
     "fees" : {
         "8" : 0.001,
@@ -22,7 +23,7 @@
         },
         {
             "address" : "8Yq1JGmKAm4qyitx6atpUz1QQqqFm5Ki19",
-            "weight" : 10
+            "weight" : -100
         },
         {
             "address" : "8ZzENdnyZLDvsZPJmZhQYtdzaBwSKDLXGX",
@@ -38,18 +39,14 @@
         },
         {
             "address" : "8KXAthBdtPWokQRXB93FzPTKvBH5WXdTxV",
-            "weight" : 50
+            "weight" : 0
         },
         {
             "address" : "8c3VfkYUUaFWp75SiMhFasmWwmYVoWqTaT",
-            "weight" : 127
+            "weight" : 100
         },
         {
-            "address" : "8VTtwxu2T1yYUiXoq8BtGAjXxwPySRfFaX",
-            "weight" : 20
-        },
-        {
-            "address" : "8Z3cSbWKeCiE5A15dJpsHmou34w5BYVHqM",
+            "address" : "8Yq1JGmKAm4qyitx6atpUz1QQqqFm5Ki19",
             "weight" : -127
         }
     ],
